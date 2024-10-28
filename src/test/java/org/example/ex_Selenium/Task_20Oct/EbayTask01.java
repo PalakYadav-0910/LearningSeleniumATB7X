@@ -60,7 +60,8 @@ public class EbayTask01 {
             }
         }
 
-        System.out.println("\n" + "Minimum Price is : " + minPrice);
+        System.out.println();
+        System.out.println("Minimum Price is : " + minPrice);
 
         driver.quit();
 
